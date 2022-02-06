@@ -8,10 +8,3 @@ class Programmer:
     self.misc = ['Docker']
     self.working_on = ['ISTQB Certificate', 'Teaching skills']
 ```
-
----
-
-[![codewars](https://www.codewars.com/users/NeverDieOne/badges/large)](https://www.codewars.com/users/NeverDieOne)
-
-
-
