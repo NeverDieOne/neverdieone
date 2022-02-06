@@ -4,7 +4,7 @@ class Programmer:
     self.name = 'Artem'
     self.skills = ['Python', 'Golang', 'JavaScript']
     self.databases = ['Redis', 'PostgreSQL', 'MongoDB']
-    self.misc = ['Docker`]
+    self.misc = ['Docker']
 ```
 
 ---
