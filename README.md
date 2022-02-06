@@ -7,4 +7,6 @@ class Programmer:
         self.databases = ['Redis', 'PostgreSQL', 'MongoDB']
         self.misc = ['Docker']
         self.working_on = ['ISTQB Certificate', 'Teaching skills']
+        self.telegram = "@neverdieone"
+        self.email = "altiore@mail.ru"
 ```
