@@ -1,5 +1,3 @@
-Hi! My name is Artem and I'm Testing Automation Engineer in Wargaming.
-
 ```python
 class Programmer:
   def __init__(self):
@@ -7,11 +5,9 @@ class Programmer:
     self.skills = ['Python', 'Golang', 'JavaScript']
     self.databases = ['Redis', 'PostgreSQL', 'MongoDB']
     self.misc = ['Docker']
+    self.company = 'Wargaming'
+    self.plans = 'ISTQB'
 ```
-
-If I have a free time, then I code on Codewars or reading about code @_@
-
-Now I'm going to get ISTQB Certificate.
 
 ---
 
