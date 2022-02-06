@@ -6,7 +6,7 @@ class Programmer:
     self.databases = ['Redis', 'PostgreSQL', 'MongoDB']
     self.misc = ['Docker']
     self.company = 'Wargaming'
-    self.plans = 'ISTQB'
+    self.working_on = ['ISTQB Certificate', 'Teaching skills']
 ```
 
 ---
