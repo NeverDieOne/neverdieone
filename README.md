@@ -4,7 +4,7 @@
 
 ---
 
-[![codewars](https://www.codewars.com/users/NeverDieOne/badges/small)](https://www.codewars.com/users/NeverDieOne)
+[![codewars](https://www.codewars.com/users/NeverDieOne/badges/large)](https://www.codewars.com/users/NeverDieOne)
 
 
 
