@@ -10,3 +10,13 @@ class Programmer:
         self.telegram = "@neverdieone"
         self.email = "altiore@mail.ru"
 ```
+
+
+```mermaid
+flowchart TD
+    A[Coding] --> B{Do you like code?};
+    B --> Yes --> C[Keep do it!];
+    B --> No --> D[Drink some coffee];
+    C --> E[Enjoy your life];
+    D --> E[Enjoy your life];
+```
