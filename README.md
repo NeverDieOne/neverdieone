@@ -2,7 +2,7 @@
 class Programmer:
     def __init__(self):
         self.name = 'Artem'
-        self.company = 'Wargaming / Lesta Games'
+        self.company = 'Lesta Games'
         self.skills = ['Python', 'JavaScript']
         self.databases = ['Redis', 'PostgreSQL', 'MongoDB']
         self.misc = ['Docker']
